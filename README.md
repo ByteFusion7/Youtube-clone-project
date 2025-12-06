@@ -11,4 +11,4 @@ This project focuses on practicing layout, styling, and responsive design.
 
 ## 📦 How to Run
 1. Clone this repository:
- '''bash git clone https://github.com/ByteFusion7/Youtube-clone-project.git
+git clone https://github.com/ByteFusion7/Youtube-clone-project.git
